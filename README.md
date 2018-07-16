@@ -1,2 +1,2 @@
 # cryptozombies_challenge
-[[cryptozombies.io]]やってみた集
+[cryptozombies.io](https://cryptozombies.io/)やってみた集
