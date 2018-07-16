@@ -1,2 +1,2 @@
 # cryptozombies_challenge
-cryptozombiesやってみた
+[[cryptozombies.io]]やってみた集
